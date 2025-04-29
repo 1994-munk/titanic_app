@@ -39,5 +39,3 @@ json
 
 
 
-👩‍💻 Author
-Created with ❤️ by [Shirleen G.]
